@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+.titulo{
+    font-size: larger;
+    color: blue;
+    text-align: center;
+    background-color: yellow;
+
+}
+.textoCiudad{
+    font-size: x-large;
+    text-align: center;
+    background-color: blue;
+    color: cornsilk;
+    }
+    
+.textoLink{
+    font-size: small;
+    text-align: center;
+    background-color: red
+}
+.imagen{
+    float: left;
+    margin: 1px 350px 1px 200px;
+   
+}
+.boton{
+    background-color: red;
+    color: black;
+    font-size: larger;
+    font-weight: bold;
+    border-radius: 5%;
+    border-style: solid;
+    margin-left: 10%;
+}
+.linkinformacion{
+    text-align: center;
+}
+
